@@ -18,13 +18,13 @@ Local believers use phone to contact Pastor,the church website mainly function a
 
 What kind of template should we choose, in my mind there are some ways:
 
-1). responsive, automaticly layout change between mobile and desktop, good for mobile phone user.
+- responsive, automaticly layout change between mobile and desktop, good for mobile phone user.
 
-2). vertical layout, like an app, good for mobile phone user.
+- vertical layout, like an app, good for mobile phone user.
 
-3). a hero image on home page, a hero image is a big picture to show theme of the website.
+- a hero image on home page, a hero image is a big picture to show theme of the website.
 
-4). deployed in netlify.com, normally a church website need less update frequency, need simple interface, no need specific administrator, netlify.com suppose to be free to use upto some limitation, Jekyll (a popular Static Site Generator name) was in market in 2008, netlify.com appeared in 2014, so the website deployable in netlify.com means the template can be used free of charge,especially Jekyll template.
+- deployed in netlify.com, normally a church website need less update frequency, need simple interface, no need specific administrator, netlify.com suppose to be free to use upto some limitation, Jekyll (a popular Static Site Generator name) was in market in 2008, netlify.com appeared in 2014, so the website deployable in netlify.com means the template can be used free of charge,especially Jekyll template.
 
 We will select different templates, first Jekyll then 11ty, next maybe Next.js, Next maybe Jigsaw. ( All are static statis generator name.)
 
