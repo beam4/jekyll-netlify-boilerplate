@@ -6,9 +6,11 @@ permalink: /
 
 To build a church website, we use static approach,'static' means opposite to "dynamic' website which has a database, the static website doesn't has a database, which make it less complicated and light-weight,there are similar services like [vercel](https://vercel.com/), [cloudflare pages](https://pages.cloudflare.com/), [github pages](https://pages.github.com) and so on.
 
-The way is like this: select a template, edit in github.com and host in netlify.com
+We make website this way: select a template, edit in github.com and host in netlify.com
 
-There is a sample website: [Good News Church Nepal](https://goodnewschurchnp.netlify.app), you can folk and start.
+There is a sample website: [Good News Church Nepal](https://goodnewschurchnp.netlify.app), the github repository is: https://github.com/goodnewschurchnp/jekyll-netlify-boilerplate 
+
+You can folk and start.
 
 We will start from Information Website:
 
