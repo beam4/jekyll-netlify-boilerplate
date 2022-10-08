@@ -6,7 +6,7 @@ permalink: /tutorial
 
 ### Preparation
 
-- We will use a sample church name: Good News Church Nepal,suppose the format of email address is goodnewschurchnp@gmail.com, website url suppose to be:goodnewschurchnp.netlify.app
+> We will use a sample church name: Good News Church Nepal,suppose the format of email address is goodnewschurchnp@gmail.com, website url suppose to be:goodnewschurchnp.netlify.app
 
 - First collect the information of the church, such as the name of the church, the name of the Pastor..., then sign up to github.com and netlify.com, there suppose to be many tutorials on internet, finally, go to netlify.com to build the website, as planned, we will build 3 or 4 types of templates, according to static site generator name, first we will use Jekyll, then 11ty,then Next,js, then maybe Jigsaw.
 
