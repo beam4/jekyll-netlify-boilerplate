@@ -1,11 +1,7 @@
 ---
-layout: blog1
-title: 
+layout: post
+title: Contact
 permalink: /contact
 ---
 
-### Contact
-
 #### Email:cheejon@yahoo.com
-
-#### W
