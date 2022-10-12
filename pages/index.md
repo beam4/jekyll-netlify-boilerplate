@@ -38,7 +38,7 @@ We will introduce data and data analyze according our understanding, that is fou
 
 We will briefly touch domain name, an introduction and how to use domain name, a domain name usually cost about 10 USD a year 
 
-### Churches use our service:
+## Churches use our service:
 
-[New Vision Church](https://newvisionchurchnp.netlify.app); url at https://newvisionchurchnp.netlify.app
+- [New Vision Church](https://newvisionchurchnp.netlify.app); url at https://newvisionchurchnp.netlify.app
 
