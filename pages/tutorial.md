@@ -6,9 +6,9 @@ permalink: /tutorial
 
 ### Preparation
 
-> We will use a sample church name: Good News Church Nepal,suppose the format of email address is goodnewschurchnp@gmail.com, website url suppose to be:goodnewschurchnp.netlify.app
+We will use a sample church name: Good News Church Nepal,suppose the format of email address is goodnewschurchnp@gmail.com, website url suppose to be:goodnewschurchnp.netlify.app
 
-- First collect the information of the church, such as the name of the church, the name of the Pastor..., then sign up to github.com and netlify.com, there suppose to be many tutorials on internet, finally, go to netlify.com to build the website, as planned, we will build 3 or 4 types of templates, according to static site generator name, first we will use Jekyll, then 11ty,then Next,js, then maybe Jigsaw.
+First collect the information of the church, such as the name of the church, the name of the Pastor..., then sign up to github.com and netlify.com, there suppose to be many tutorials on internet, finally, go to netlify.com to build the website, as planned, we will build 3 or 4 types of templates, according to static site generator name, first we will use Jekyll, then 11ty,then Next,js, then maybe Jigsaw.
 
 #### Step 1 Register a gmail account 
 
@@ -26,7 +26,7 @@ Sign up for github.com and netlify.com, there are many online howto, the purpose
 
 #### Step 4 Sigh up and login Google Analytics
 
-Register in Google Analytics, sign up an account for Google Analytics in https://analynics.google.com ,there is a tutorial you can refer to ,  https://www.e2msolutions.com/blog/setup-google-analytics-4/ ,also you can search internet.
+Register in Google Analytics, sign up an account for Google Analytics in https://analynics.google.com ,there is a tutorial you can refer to ,  https://www.e2msolutions.com/blog/setup-google-analytics-4/ ,also you can search internet. [There are detail](/tutorial/google-analytics/)
 
 #### Print screen software and Online photo editor
 
