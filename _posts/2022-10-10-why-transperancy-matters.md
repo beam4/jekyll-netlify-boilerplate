@@ -2,7 +2,7 @@
 layout: post
 title: Why Transperancy Matters
 author: dan_urbanowicz
-date: 2018-07-11T00:12:57.000Z
+date: 2022-10-10T00:12:57.000Z
 intro_paragraph: ''
 categories: misc
 ---
