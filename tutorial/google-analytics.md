@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tutorial
-permalink: /tutorial
+permalink: /tutorial/google-analytics
 ---
 
 #### To register a Google Analytics Account
