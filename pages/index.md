@@ -4,9 +4,9 @@ title:
 permalink: /
 ---
 
-> To build a church website, we use static approach,'static' means opposite to "dynamic' website which has a database, the static website doesn't has a database, which make it less complicated and light-weight,there are similar services like [vercel](https://vercel.com/), [cloudflare pages](https://pages.cloudflare.com/), [github pages](https://pages.github.com) and so on.
+To build a church website, we use static approach,'static' means opposite to "dynamic' website which has a database, the static website doesn't has a database, which make it less complicated and light-weight,there are similar services like [vercel](https://vercel.com/), [cloudflare pages](https://pages.cloudflare.com/), [github pages](https://pages.github.com) and so on.
 
-- We make website this way: select a template, edit in github.com and host in netlify.com
+We make website this way: select a template, edit in github.com and host in netlify.com
 
 #### A Sample Repository
 
@@ -37,4 +37,8 @@ The most difficult part is how to use the site,how to run the site? We will shar
 We will introduce data and data analyze according our understanding, that is foundation to use website. We will use Google Analytics.
 
 We will briefly touch domain name, an introduction and how to use domain name, a domain name usually cost about 10 USD a year 
+
+### Churches use our service:
+
+[New Vision Church](https://newvisionchurchnp.netlify.app); url at https://newvisionchurchnp.netlify.app
 
