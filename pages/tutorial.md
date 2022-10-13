@@ -40,7 +40,7 @@ you can check it installed or not by
 
 $ apt list --installed
 
-###### Online photo editor next.
+##### Online Photo Editor
  
 And use online photo editor with https://fotoflexer.com/editor/ .
 
