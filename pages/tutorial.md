@@ -86,11 +86,11 @@ You can change site name to yourchurchnamenp.netlify.app
 
 #### hero image
 
-'hero image' is in _includes, "hero.html", in site root > assert folder > style.css, "background-image:  url(hero1.jpeg);". If you have question, we can assist. The `hero1.jpeg` is our file name, you can replace with your image. 
+'hero image' is in `_includes` > `"hero.html"`, another in site root > `Assert` `>` `style.css`, "background-image:  url(hero1.jpeg);". If you have question, we can assist. The `hero1.jpeg` is our file name, you can replace with your image. 
 
 #### Facebook link
 
-You can make your Facebook account or your Facebook group here, all pictures about church go there.
+You can make your Facebook account or your Facebook group, all pictures about church go there.
 
 #### Home page
 
