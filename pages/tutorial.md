@@ -52,17 +52,17 @@ In our case, to replace yourchurchnamenp.netlify.com to yourchurchnamenp.org cos
 
 ![jekyll](/assets/img/homepage.png)
 
-### To build the site with Jekyll Statuc Site Generator
+### To build the site with Jekyll Static Site Generator
 
-- Jekyll template
+#### Jekyll template
 
-> Before we start to build website, let us log in github.com to make system remember github.com login, then folk the template in github.com, `folk` means `copy`, click on `folk` button on top of home page, to make the repository your own and editable.
+Before we start to build website, let us log in github.com to make system remember github.com login, then folk the template in github.com, `folk` means `copy`, click on `folk` button on top of home page, to make the repository your own and editable.
 
 ![folk button](/tutorial/img/folkbutton.png) 
 
 #### To folk the github Repository
 
-> This site use (jekyll-netlify-boilerplate) Github Repository at (https://github.com/danurbanowicz/jekyll-netlify-boilerplate), though there are some changes from original, the best way to copy and edit is to folk the (good news church Nepal), the github Repository at: (https://github.com/goodnewschurchnp/jekyll-netlify-boilerplate).
+This site use (jekyll-netlify-boilerplate) Github Repository at (https://github.com/danurbanowicz/jekyll-netlify-boilerplate), though there are some changes from original, the best way to copy and edit is to folk the (good news church Nepal), the github Repository at: (https://github.com/goodnewschurchnp/jekyll-netlify-boilerplate).
  
 #### Log in netlify.com to build the site
 
