@@ -81,6 +81,12 @@ blockquote {
   padding: 0.2rem 0.4rem;
 }
 
+#markdown-toc {
+    border: 1px dash black;
+    padding: 1rem;
+    display: inline-block;
+}
+
 ::selection {
   background-color: $selection-bg-color;
 }
