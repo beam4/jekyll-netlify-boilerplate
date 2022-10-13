@@ -4,9 +4,6 @@ title: Tutorial
 permalink: /tutorial
 ---
 
-* TOC
-{:toc}
-
 ### Preparation
 
 We will use a sample church name: Good News Church Nepal,suppose the format of email address is goodnewschurchnp@gmail.com, website url suppose to be:goodnewschurchnp.netlify.app
