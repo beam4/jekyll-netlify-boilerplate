@@ -12,7 +12,7 @@ First collect the information of the church, such as the name of the church, the
 
 #### Step 1 Register a gmail account 
 
-- Under format for example, church name: Good News Church Nepal, email like goodnewschurchnp@gmail.com, not use your private email,may need someone other than the Pastor to cooperate, the church site update not often, do not need check daily.
+Under format for example, church name: Good News Church Nepal, email like goodnewschurchnp@gmail.com, not use your private email,may need someone other than the Pastor to cooperate, the church site update not often, do not need check daily.
 
 #### Step 2 Collect informations
 
@@ -30,13 +30,19 @@ Register in Google Analytics, sign up an account for Google Analytics in https:/
 
 #### Print screen software and Online photo editor
 
-I am using Respberry Pi Plus3 B Single board computer as desktop, I installed Respberry Pi Desktop,it is actually Debian Linux, the software to capture print screen I use is `scrot`, the `scrot` installed by defult, you can check it installed or not by 
+I am using Respberry Pi Plus3 B Single board computer as desktop, I installed Respberry Pi Desktop,it is actually Debian Linux.
+
+##### The Screen Print 
+
+The software to capture print screen I use is `scrot`, the `scrot` installed by defult, Everytime you click 'Print Screen' button on upper right of the keyboard, there save a current screen in 'Home' folder with a format yearmounthdate.png.
+
+you can check it installed or not by 
 
 $ apt list --installed
 
-You can search internet also.Everytime you press `Print Screen` botton on Keyboard, in `Home` folder, automaticly save a sreenshot in a format YearMounthDate.png,You can edit with online photo editor next.
+###### Online photo editor next.
  
-And use online photo editor with https://fotoflexer.com/editor/ to make the tutorial.
+And use online photo editor with https://fotoflexer.com/editor/ .
 
 #### Domain Name
 
@@ -94,6 +100,6 @@ Home page is in site root > pages > index.md, this is a markdown file.
 
 Contact page is in site root > pages > contact.md, this is a markdown file.
 
-#### Regarding Markdown File
+#### Markdown File
 
 You can search internet for 'markdown cheatsheet', follow the format the cheatsheet show you.
