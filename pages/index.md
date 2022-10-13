@@ -14,9 +14,15 @@ There is a sample website: [Good News Church Nepal](https://goodnewschurchnp.net
 
 You can folk and start.
 
-We will start from Information Website:
+#### The Information Site
+
+Information website means the main function of the site provide information of the church.The information site suppose to be a start point for the pastor.
+
+We will start from Information Website, if the pastor of the church has some idea other than the information function, that is good.
 
 Local believers use phone to contact Pastor,the church website mainly function as a list of informations, the church serve for local people, the photoes goes to Facebook account or group and leave a link on website. All website are in this setup, there are home page and contact page along with outside Facebook account or group link.
+
+#### Template  
 
 What kind of template should we choose, in my mind there are some ways:
 
@@ -30,11 +36,13 @@ What kind of template should we choose, in my mind there are some ways:
 
 We will select different templates, first Jekyll then 11ty, next maybe Next.js, Next maybe Jigsaw. ( All are static statis generator name.)
 
+#### Sections And Navigation
+
 Follow the [Tutorial](/tutorial) if you want to deploy by yourself.
 
 The most difficult part is how to use the site,how to run the site? We will share in [Opinions](/opinions) section as a starter.
 
-We will introduce data and data analyze according our understanding, that is foundation to use website. We will use Google Analytics.
+We will introduce data and data analyze according our understanding, the data analysis are foundation of a website, we will use [Google Analytics](/tutorial/google-analytics).
 
 We will briefly touch domain name, an introduction and how to use domain name, a domain name usually cost about 10 USD a year 
 
