@@ -48,5 +48,5 @@ We will briefly touch domain name, an introduction and how to use domain name, a
 
 ## Churches use our service:
 
-- [New Vision Church](https://newvisionchurchnp.netlify.app); url at (https://newvisionchurchnp.netlify.app)
+- [New Vision Church](https://newvisionchurchnp.netlify.app); url at https://newvisionchurchnp.netlify.app
 
