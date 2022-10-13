@@ -82,7 +82,7 @@ You can change site name to yourchurchnamenp.netlify.app
 
 #### navigation
 
-'navigation' you can edit data > navigation, click the 'edit' icon to edit.
+'navigation' you can edit `_data` `>` `navigation.yml`, click the 'edit' icon to edit.
 
 #### hero image
 
