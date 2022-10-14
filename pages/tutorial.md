@@ -63,7 +63,7 @@ Before we start to build website, let us log in github.com to make system rememb
 
 #### To folk the github Repository
 
-This site use (jekyll-netlify-boilerplate) Github Repository at (https://github.com/danurbanowicz/jekyll-netlify-boilerplate), though there are some changes from original, the best way to copy and edit is to folk the (good news church Nepal), the github Repository at: (https://github.com/goodnewschurchnp/jekyll-netlify-boilerplate).
+This site use (jekyll-netlify-boilerplate) Github Repository at (https://github.com/danurbanowicz/jekyll-netlify-boilerplate), though there are some changes from original, the best way to copy and edit is to folk the [good news church Nepal](https://github.com/goodnewschurchnp/jekyll-netlify-boilerplate), the github Repository at: **(https://github.com/goodnewschurchnp/jekyll-netlify-boilerplate)**.
  
 #### Log in netlify.com to build the site
 
