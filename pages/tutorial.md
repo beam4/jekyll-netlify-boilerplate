@@ -28,7 +28,7 @@ Sign up for github.com and netlify.com, there are many online howto, the purpose
 
 #### Step 4 Sigh up and login Google Analytics
 
-Register in Google Analytics, sign up an account for Google Analytics in https://analynics.google.com ,there is a tutorial you can refer to ,  https://www.e2msolutions.com/blog/setup-google-analytics-4/ ,also you can search internet. [There are detail](/tutorial/google-analytics)
+Register in Google Analytics, sign up an account for Google Analytics in https://analytics.google.com ,there is a tutorial you can refer to ,  https://www.e2msolutions.com/blog/setup-google-analytics-4/ ,also you can search internet. [There are detail](/tutorial/google-analytics)
 
 #### Print screen software and Online photo editor
 
