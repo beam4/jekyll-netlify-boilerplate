@@ -4,7 +4,7 @@ title: Tutorial
 permalink: /tutorial
 ---
 
-{:toc}
+toc
 
 ### Preparation
 
