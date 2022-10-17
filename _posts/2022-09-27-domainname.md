@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 newsletter: Opinions
 title: About domain name
 author: john_doe
