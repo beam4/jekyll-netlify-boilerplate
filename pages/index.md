@@ -11,7 +11,7 @@ To build a church website, we use static approach,'static' means opposite to "dy
 
 #### A Sample Repository
 
-There is a sample website: [Good News Church Nepal](https://goodnewschurchnp.netlify.app), the github repository is: https://github.com/goodnewschurchnp/jekyll-netlify-boilerplate 
+There is a sample website: [Good News Church Nepal](https://goodnewschurchnp.netlify.app), the github repository is: [https://github.com/goodnewschurchnp/jekyll-netlify-boilerplate](https://github.com/goodnewschurchnp/jekyll-netlify-boilerplate)
 
 You can folk and start.
 
