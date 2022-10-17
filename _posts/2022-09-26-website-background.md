@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 newsletter: Opinions
 title: Website and background
 meta_description: A description may also be set in a post. You can find more information about it in pages/about.md.
