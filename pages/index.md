@@ -4,6 +4,11 @@ title:
 permalink: /
 ---
 
+#### The intention
+
+This site is to build the God's church a web site, a web site is a standard requirement for any ornization in digital age, this is a voluntary project in New Vision Church believers in Nuwakot Nepal.
+
+#### The Approach
 
 To build a church website, we use static approach,'static' means opposite to "dynamic' website which has a database, the static website doesn't has a database, which make it less complicated and light-weight,there are similar services like [vercel](https://vercel.com/), [cloudflare pages](https://pages.cloudflare.com/), [github pages](https://pages.github.com) and so on.
 
