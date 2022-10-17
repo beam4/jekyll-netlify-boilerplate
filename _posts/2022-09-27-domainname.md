@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: blog
+newsletter: Opinions
 title: About domain name
 author: john_doe
 date: '2022-09-27 12:00:00'
