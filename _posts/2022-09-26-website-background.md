@@ -20,7 +20,7 @@ Softwares to make the website called 'CMS'(content management system), the famou
 
 - Website are standard for every companies
 
-The website market are very crowd, there are CMS like Wordpress,Druprl,Djv also has many graphic website builder like wix,shopify,many others, and many hosting companies, and there are static website companies also like netlify.com vercel.com many many, the qeastion is why they enter so much crowd market? the competition suppose to be very fierce.
+The website market are very crowd, there are open source CMS like Wordpress,Druprl,Django, TYPO3 many many... also has many graphic website builder like wix,shopify,many others, and many hosting companies, and there are static website companies also like netlify.com vercel.com many many, the qeastion is why they enter so much crowd market? the competition suppose to be very fierce.
 
 The answer I think is the market big enough, every company need website, both existing companies and future companies, To have a website is a standard, may not know how helpful a website can do for sales but website is an answer to digital age.
 
