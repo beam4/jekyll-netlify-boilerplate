@@ -12,7 +12,7 @@ To use google analytics, first you have to register, suppose you use like goodne
 
 #### Step 1 Log in google account
 
-#### Step 2 Visit [Google Analytics](https://analytics.google.com/analytics/web/) account at https://analytics.google.com/analytics/web/
+#### Step 2 Visit [Google Analytics](https://analytics.google.com/) account at https://analytics.google.com/
 
 Done.
 
