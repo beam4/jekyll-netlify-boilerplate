@@ -5,7 +5,7 @@ permalink: /
 ---
 &nbsp; 
 
-The full web site life circle are in 3 stages, step 1 is building the site, step 2 is handing over to pastor, step 3 is using web site in various cases. The most difficult part is how to use web site, there is no textbook or theory on this, simply put, it is all about customers demands, to use web site, better know your customers is the key for competition.
+The full web site life circle are in 3 stages, step 1 is building the site, step 2 is [handing over to pastor](/tutorial/hand-over), step 3 is using web site in various cases. The most difficult part is how to use web site, there is no textbook or theory on this, simply put, it is all about customers demands, to use web site, better know your customers is the key for competition.
 
 #### The intention
 
@@ -53,7 +53,7 @@ The most difficult part is how to use the site,how to run the site? We will shar
 
 We will introduce data and data analyze according our understanding, the data analysis are foundation of a website, we will use [Google Analytics](/tutorial/google-analytics).
 
-We will briefly touch domain name, an introduction and how to use domain name, a domain name usually cost about 10 USD a year 
+We will briefly touch [domain name](/blog/domainname), an introduction and how to use domain name, a domain name usually cost about 10 USD a year 
 
 ## Churches use our service:
 
