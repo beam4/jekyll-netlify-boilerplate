@@ -5,6 +5,8 @@ permalink: /
 ---
 &nbsp; 
 
+The full web site life circle are in 3 stages, step 1 is building the site, step 2 is handing over to pastor, step 3 is using web site in various cases. The most difficult part is how to use web site, there is no textbook or theory on this, simply put, it is all about customers demands, to use web site, better know your customers is the key for competition.
+
 #### The intention
 
 This site is to build the God's church a web site, a web site is a standard requirement for any organization in digital age, this is a voluntary project in New Vision Church believers in Nuwakot Nepal.
