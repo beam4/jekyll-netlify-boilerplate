@@ -10,7 +10,8 @@ categories: misc
 
 - ### HTML and Markdown file
 
-All web pages are in HTML format, these can be viewed by 'source code' by a web browser, the HTML format is actually a text file, can be viewed by a web browser, the Markdown format file will convert to HTML file, to be regnize by web browser, HTML file are not human regnize friendly, the Markdown file is human regnize friendly,so you write in Markdown format and translate to HTML for web browser. The Markdown format you can search internet, search 'markdown cheatsheet' is ok.
+All web pages are in HTML format, these can be viewed by 'source code' by a web browser, the HTML format is actually a text file, can be viewed by a web browser, our website is actually displayed in a web browser in HTML format, convert from Markdown format to HTML format.
+for example, we write down 'Home' page in Markdown format automiticly convert into HTML format in a web browser,thus when you see a web site it acyually displayed from HTML in your web browser, you write in Markdown format. HTML file are not human regnize friendly, the Markdown file is human regnize friendly,so you write in Markdown format and translate to HTML for web browser. The Markdown format you can search internet, search 'markdown cheatsheet' is ok.
 
 There is a site for learning many computer topics at: [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/) , you can find topics like HTML,CSS and more.
 
