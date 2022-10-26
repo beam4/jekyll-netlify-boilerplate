@@ -16,7 +16,7 @@ There is a site for learning many computer topics at: [https://www.geeksforgeeks
 
 - ### CMS
 
-Softwares to make the website called 'CMS'(content management system), the famous are Wordpress, Drupal,Lateral, Typ03,and many, most them are open source, menas free to use,those are need database, called 'dynamic'.There are other group called 'static', no need database,the church website suppose no need to update everyday,no need a specific administrator, the 'static' apporach is good for church use. 
+Softwares to make the website called 'CMS'(content management system), the famous are Wordpress, Drupal,Lateral, Typ03,and many, most them are open source, means free to use,those are need database, called 'dynamic'.There are other group called 'static', no need database,the church website suppose no need to update everyday,no need a specific administrator, the 'static' apporach is good for church use. 
 
 There is another type to make website,like wix.com, shopify.com, sqarespace.com, mostly they target shops or stores, not in our sight.
 
