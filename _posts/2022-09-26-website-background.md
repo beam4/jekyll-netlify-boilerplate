@@ -18,15 +18,15 @@ There is a site for learning many computer topics at: [https://www.geeksforgeeks
 
 Softwares to make the website called 'CMS'(content management system), the famous are Wordpress, Drupal,Lateral, Typ03,and many, most them are open source, means free to use,those are need database, called 'dynamic'.There are other group called 'static', no need database,the church website suppose no need to update everyday,no need a specific administrator, the 'static' apporach is good for church use. 
 
-There is another type to make website,like wix.com, shopify.com, sqarespace.com, mostly they target shops or stores, not in our sight.
+There is another type to make website,like wix.com, shopify.com, sqarespace.com, called 'website builder', mostly they target shops or stores, not in our sight.
 
-- ### Website are standard for every companies
+- ### Website Is A Standard For Every Company
 
 The website market are very crowd, there are open source CMS like Wordpress,Druprl,Django, TYPO3 many many... also has many graphic website builder like wix,shopify,many others, and many hosting companies, and there are static website companies also like netlify.com vercel.com many many, the qeastion is why they enter so much crowd market? the competition suppose to be very fierce.
 
 The answer I think is the market big enough, every company need website, both existing companies and future companies, To have a website is a standard, may not know how helpful a website can do for sales but website is an answer to digital age.
 
-- ### Website come up with digital advertising
+- ### Website Came Up With Digital Advertising
 
 Our mission is try to find which is best for church use in website. One thing is clear, if someone don't know how to run bsiness in digital time, he suppose don't know, cause it is only a begining,but he should not follow the previous method,the reason is simple, because the previous method can not compete with digital method.
 
