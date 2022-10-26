@@ -18,6 +18,8 @@ There is a site for learning many computer topics at: [https://www.geeksforgeeks
 
 Softwares to make the website called 'CMS'(content management system), the famous are Wordpress, Drupal,Lateral, Typ03,and many, most them are open source, menas free to use,those are need database, called 'dynamic'.There are other group called 'static', no need database,the church website suppose no need to update everyday,no need a specific administrator, the 'static' apporach is good for church use. 
 
+There is another type to make website,like wix.com, shopify.com, sqarespace.com, mostly they target shops or stores, not in our sight.
+
 - ### Website are standard for every companies
 
 The website market are very crowd, there are open source CMS like Wordpress,Druprl,Django, TYPO3 many many... also has many graphic website builder like wix,shopify,many others, and many hosting companies, and there are static website companies also like netlify.com vercel.com many many, the qeastion is why they enter so much crowd market? the competition suppose to be very fierce.
