@@ -3,7 +3,7 @@ layout: post
 title: Tutorial
 permalink: /tutorial
 ---
-In 'Tutorial' we will show how this web site being built, you can build web site by yourself. ** Preparation ** is for common steps, after common steps, go on to build the web site.
+In 'Tutorial' we will show how this web site being built, you can build web site by yourself. **Preparation** is for common steps, after common steps, go on to build the web site.
 
 ### Preparation
 
