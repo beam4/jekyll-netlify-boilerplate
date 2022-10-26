@@ -3,7 +3,7 @@ layout: post
 title: Tutorial
 permalink: /tutorial
 ---
-
+In 'Tutorial' we will show how this web site being built, you can build web site by yourself. ** Preparation ** is for common steps, after common steps, go on to build the web site.
 
 ### Preparation
 
@@ -106,3 +106,7 @@ Contact page is in site root > pages > contact.md, this is a markdown file.
 #### Markdown File
 
 You can search internet for 'markdown cheatsheet', follow the format the cheatsheet show you.
+
+#### How To Change Gmail Password
+
+Go click Google web account avitar icon on top right of web browser,click `Manage Google Account`,then `Google Account UI` appeared, on left column, click `Security` ,then sroll down to `Password` ,enter original password and the password you want to change.
