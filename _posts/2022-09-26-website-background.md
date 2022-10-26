@@ -8,7 +8,7 @@ date: '2022-09-26 12:00:00'
 categories: misc
 ---
 
-- HTML and Markdown file
+### - HTML and Markdown file
 
 All web pages are in HTML format, these can be viewed by 'source code' by a web browser, the HTML format is actually a text file, can be viewed by a web browser, the Markdown format file will convert to HTML file, to be regnize by web browser, HTML file are not human regnize friendly, the Markdown file is human regnize friendly,so you write in Markdown format and translate to HTML for web browser. The Markdown format you can search internet, search 'markdown cheatsheet' is ok.
 
