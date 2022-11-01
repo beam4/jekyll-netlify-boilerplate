@@ -7,7 +7,7 @@ permalink: /
 
 #### The structure of 'buildchurchsite.netlify.app'
 
-Besides `'home'` page and `'contact'` page, ['Tutorial'](/tutorial) section provide informations on how to make website in case someone want to make the website by oneself, ['Opinions'](/opinions) section want to provide informations on how to use website to share a point to pastor in order to give some suggestions to pastor.
+Besides `home` page and `contact` page, [Tutorial](/tutorial) section provide informations on how to make website in case someone want to make the website by oneself, [Opinions](/opinions) section want to provide informations on how to use website to share a point to pastor in order to give some suggestions to pastor.
 
 You would better visit [https://buildchurchsite.netlify.app](https://buildchurchsite.netlify.app) first.
 
