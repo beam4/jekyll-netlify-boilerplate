@@ -53,56 +53,6 @@ In our case, to replace yourchurchnamenp.netlify.com to yourchurchnamenp.org cos
 
 This is my [advice](/blog/domainname)
 
-### To build the site with Jekyll Static Site Generator
-
-![jekyll](/assets/img/homepage.png)
-
-#### Jekyll template
-
-Before we start to build website, let us log in github.com to make system remember github.com login, then folk the template in github.com, `folk` means `copy`, click on `folk` button on top of home page, to make the repository your own and editable.
-
-![folk button](/tutorial/img/folkbutton.png) 
-
-#### To folk the github Repository
-
-This site use (jekyll-netlify-boilerplate) Github Repository at (https://github.com/danurbanowicz/jekyll-netlify-boilerplate), though there are some changes from original, the best way to copy and edit is to folk the [good news church Nepal](https://github.com/goodnewschurchnp/jekyll-netlify-boilerplate), the github Repository at: **(https://github.com/goodnewschurchnp/jekyll-netlify-boilerplate)**.
- 
-#### Log in netlify.com to build the site
-
-To log in netlify.com at https://www.netlify.com
-
-`Add new site` `>` `Import an existing project` > `github.com` > `target github Repository` > `Deploy site`
-
-#### Change site name
-
-You can change site name to yourchurchnamenp.netlify.app
-
-`site settings` > `change site name` under `Site details` --> `Site information` 
-
-#### site name
-
-'site name' is in _config.yml,under site github repository's root, you will find "title: xxxxxx"
-
-#### navigation
-
-'navigation' you can edit `_data` `>` `navigation.yml`, click the 'edit' icon to edit.
-
-#### hero image
-
-'hero image' is in `_includes` > `"hero.html"`, another in site root > `Assert` `>` `style.css`, "background-image:  url(hero1.jpeg);". If you have question, we can assist. The `hero1.jpeg` is our file name, you can replace with your image. 
-
-#### Facebook link
-
-You can make your Facebook account or your Facebook group, all pictures about church go there.
-
-#### Home page
-
-Home page is in site root > pages > index.md, this is a markdown file.
-
-#### Contact
-
-Contact page is in site root > pages > contact.md, this is a markdown file.
-
 #### Markdown File
 
 You can search internet for 'markdown cheatsheet', follow the format the cheatsheet show you.
@@ -110,3 +60,5 @@ You can search internet for 'markdown cheatsheet', follow the format the cheatsh
 #### How To Change Gmail Password
 
 Go click Google web account avitar icon on top right of web browser,click `Manage Google Account`,then `Google Account UI` appeared, on left column, click `Security` ,then sroll down to `Password` ,enter original password and the password you want to change.
+
+### To build the site with [Jekyll Static Site Generator](/tutorial/jekyll)
