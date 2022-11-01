@@ -27,8 +27,8 @@ Jekyll, a Static Site Generator, first release in 2008 by github.com founder Tom
 
 #### Home page
 
-Home page is in site root > pages > index.md
+Home page is in site `root` `>` `pages` `>` `index.md`
 
 #### Contact
 
-Contact page is in site root > pages > contact.md
+Contact page is in site `root` `>` `pages` `>` `contact.md`
