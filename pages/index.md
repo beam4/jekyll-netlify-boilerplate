@@ -5,6 +5,12 @@ permalink: /
 ---
 &nbsp; 
 
+#### The structure of 'buildchurchsite.netlify.app'
+
+Besides `'home'` page and `'contact'` page, ['Tutorial'](/tutorial) section provide informations on how to make website in case someone want to make the website by oneself, ['Opinions'](/opinions) section want to provide informations on how to use website to share a point to pastor in order to give some suggestions to pastor.
+
+You would better visit [https://buildchurchsite.netlify.app](https://buildchurchsite.netlify.app) first.
+
 The full web site life circle are in 3 stages, step 1 is building the site, step 2 is [handing over to pastor](/tutorial/hand-over), step 3 is using web site in various cases. The most difficult part is how to use web site, there is no textbook or theory on this, simply put, it is all about customers demands, to use web site, better know your customers is the key for competition.
 
 #### The intention
