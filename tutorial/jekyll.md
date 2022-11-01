@@ -1,5 +1,5 @@
 ---
-layout: blog1
+layout: post
 title: 
 permalink: /tutorial/jekyll
 ---
