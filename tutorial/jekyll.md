@@ -9,7 +9,7 @@ permalink: /tutorial/jekyll
 ![jekyll](/tutorial/img/front.png)
 
 Jekyll, a Static Site Generator, first release in 2008 by github.com founder Tom Preston-Werner. Jekyll template we use is 
-[jekyll-netlify-boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate),the best way to build website is to folk, 'folk' means copy, [good news church Nepal](https://github.com/goodnewschurchnp/jekyll-netlify-boilerplate),edit up on it.
+[jekyll-netlify-boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate),the best way to build website is to folk [good news church Nepal](https://github.com/goodnewschurchnp/jekyll-netlify-boilerplate), 'folk' means copy, edit up on it.
 
 [buildchurchsite] is in https://buildchurchsite.netlify.app
 
@@ -32,7 +32,3 @@ Home page is in site root > pages > index.md
 #### Contact
 
 Contact page is in site root > pages > contact.md
-
-#### Regarding Markdown File
-
-You can search internet for 'markdown cheatsheet', follow the format the cheatsheet show you.
