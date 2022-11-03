@@ -61,4 +61,4 @@ You can search internet for 'markdown cheatsheet', follow the format the cheatsh
 
 Go click Google web account avitar icon on top right of web browser,click `Manage Google Account`,then `Google Account UI` appeared, on left column, click `Security` ,then sroll down to `Password` ,enter original password and the password you want to change.
 
-### To build the site with [Jekyll Static Site Generator](/tutorial/jekyll)
+### To build the site with [Jekyll](/tutorial/jekyll)
