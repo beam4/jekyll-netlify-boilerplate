@@ -63,5 +63,5 @@ We will briefly touch [domain name](/blog/domainname), an introduction and how t
 
 ## Churches use our service:
 
-[New Vision Church](https://newvisionchurchnp.netlify.app); url at [https://newvisionchurchnp.netlify.app](https://newvisionchurchnp.netlify.app)
+[Thansing New Vision Church](https://newvisionchurchnp.netlify.app); url at [https://newvisionnp.org](https://newvisionnp.rg)
 
