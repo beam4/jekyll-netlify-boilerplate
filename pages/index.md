@@ -1,6 +1,6 @@
 ---
 layout: home
-title:
+title: Home | Build Church Site
 permalink: /
 ---
 &nbsp; 
